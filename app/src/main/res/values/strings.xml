@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Echo</string>
+
+    <string name="nav_title_new">new</string>
+    <string name="nav_title_past">past</string>
+    <string name="nav_title_stats">stats</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
